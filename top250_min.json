@@ -20,7 +20,15 @@
     "imdb_url": "/title/tt0055630/",
     "name": "Yojinbo",
     "rating": 8.2,
-    "year": 1961
+    "year": 1961,
+    "coments": [
+      "Pelicula muy bien",
+      "muy interesante"
+    ],
+    "user": [
+      "erick",
+      "lalo"
+    ]
   },
   {
     "actors": [
@@ -44,7 +52,15 @@
     "imdb_url": "/title/tt0051201/",
     "name": "Witness for the Prosecution",
     "rating": 8.4,
-    "year": 1958
+    "year": 1958,
+    "coments": [
+      "chida",
+      "look"
+    ],
+    "user": [
+      "Arturo",
+      "erotico"
+    ]
   },
   {
     "actors": [
